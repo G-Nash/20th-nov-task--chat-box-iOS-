@@ -121,22 +121,26 @@ body{
 }
 
 .gnc, .shc{
-    border: solid blue;
+    /* border: solid blue; */
     border-radius: 30px;
     width: max-content;
     padding: 5px;
-    background-color: blue;
+    /* background-color: blue; */
     color: white;
     margin-bottom: 2%;
 }
 
 .gnc{
+    border: solid blue;
+    background-color: blue;
     margin-left: auto;
     /* margin-right: auto; */
 }
 
 .shc{
     /* margin-left: auto; */
+    border: solid rgb(98, 98, 98);
+    background-color: rgb(98, 98, 98);
     margin-right: auto;
 }
 
