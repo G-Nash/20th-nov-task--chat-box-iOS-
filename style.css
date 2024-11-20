@@ -112,7 +112,7 @@ body{
 
 #chats{
     /* border: solid black; */
-    height: 70%;
+    height: 72%;
     padding: 4%;
     overflow-y: auto;
     font-family: sans-serif;
