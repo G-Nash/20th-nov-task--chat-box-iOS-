@@ -179,3 +179,16 @@ body{
     margin-top: 2%;
     border-radius: 50px;
 }
+
+#watermark{
+    position: fixed;
+    /* border: solid; */
+    /* margin-left: auto;
+    margin-right: auto; */
+    font-size: xx-large;
+    text-align: center;
+    opacity: 50%;
+    color: red;
+    top: 50%;
+    left: 40%;
+}
