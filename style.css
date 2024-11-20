@@ -139,9 +139,10 @@ body{
 
 .shc{
     /* margin-left: auto; */
-    border: solid rgb(98, 98, 98);
-    background-color: rgb(98, 98, 98);
+    background-color: lightgrey;
+    border: solid lightgray;
     margin-right: auto;
+    color: black;
 }
 
 #chats::-webkit-scrollbar{
