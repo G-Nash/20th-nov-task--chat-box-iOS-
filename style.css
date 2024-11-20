@@ -12,7 +12,7 @@ body{
 
 #holder{
     border: solid black 10px;
-    outline: 5px solid rgba(167, 3, 167, 0.7);
+    outline: 3px solid rgba(167, 3, 167, 0.7);
     /* max-height: 800px;
     max-width: 360px; */
     height: 750px;
