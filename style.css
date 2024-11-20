@@ -113,7 +113,7 @@ body{
 
 #chats{
     /* border: solid black; */
-    height: 72%;
+    height: 74%;
     padding: 4%;
     overflow-y: auto;
     font-family: sans-serif;
@@ -158,7 +158,7 @@ body{
 
 #footplus{
     margin-left: 4%;
-    margin-top: 3.5%;
+    margin-top: 1%;
 }
 
 #text{
@@ -167,7 +167,7 @@ body{
     border: solid gray 0.5px;
     border-radius: 30px;
     margin-left: 2%;
-    margin-top: 3.5%;
+    margin-top: 1%;
 }
 
 #tabswitch{
@@ -176,6 +176,6 @@ body{
     width: 35%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
+    margin-top: 2%;
     border-radius: 50px;
 }
